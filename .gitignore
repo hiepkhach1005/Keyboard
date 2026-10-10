@@ -1,0 +1,25 @@
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Local signing/configuration values
+*.local.xcconfig
+Secrets.xcconfig
+
+# Local metadata, generated reports, and private configuration
+.DS_Store
+build/
+dist/
+*.sarif
+.env
+.env.*
+!.env.example
+!.env.sample
+*.p12
+*.pfx
+*.pem
+*.key
+*.mobileprovision
+DevelopmentCredentials/

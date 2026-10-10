@@ -1,0 +1,21 @@
+// Replace the example identifiers before signing or distributing.
+SWIFT_VERSION = 5.0
+IPHONEOS_DEPLOYMENT_TARGET = 17.0
+KEYBOARD_DISPLAY_NAME = VuongKey
+KEYBOARD_APP_BUNDLE_ID = com.bavuong.vuongkey
+KEYBOARD_EXTENSION_BUNDLE_ID = com.bavuong.vuongkey.keyboard
+KEYBOARD_APP_GROUP = group.com.bavuong.vuongkey
+DEVELOPMENT_TEAM =
+MARKETING_VERSION = 1.0.0
+CURRENT_PROJECT_VERSION = 1
+PRIVACY_POLICY_URL = PRIVACY_POLICY_URL_REQUIRED
+SUPPORT_URL = SUPPORT_URL_REQUIRED
+SWIFT_EMIT_LOC_STRINGS = YES
+TARGETED_DEVICE_FAMILY = 1,2
+SUPPORTS_MACCATALYST = NO
+ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon
+
+// InputCore and SharedSettings are linked by Keyboard.xcodeproj.
+
+// Optional developer-specific signing; this file is ignored by Git.
+#include? "Signing.local.xcconfig"

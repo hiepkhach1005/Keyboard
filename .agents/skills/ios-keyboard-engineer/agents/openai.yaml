@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS Keyboard Engineer"
+  short_description: "Build and review the native iPhone/iPad keyboard."
+  default_prompt: "Use $ios-keyboard-engineer to continue building the keyboard from PROJECT_STATUS.md."

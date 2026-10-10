@@ -1,0 +1,3 @@
+# Loaded only after this repository is trusted.
+project_doc_max_bytes = 32768
+web_search = "cached"
